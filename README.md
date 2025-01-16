@@ -58,3 +58,7 @@ mediamarkt.de                  |                    1
 xnxx.com                       |                    1
 comdirect.de                   |                    1
 ```
+
+Verification:
+
+`openssl s_client -connect $DOMAIN:443 -servername $DOMAIN | openssl x509 -text -noout | grep -A1 "Subject Alternative Name"`
