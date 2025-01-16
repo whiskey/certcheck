@@ -84,7 +84,7 @@ def main():
         # Initial set
         "google.com", "amazon.com", "facebook.com", "microsoft.com",
         "apple.com", "netflix.com", "twitter.com", "linkedin.com",
-        "bmwgroup.com", "deutsche-bank.de", "staticline.de",
+        "bmwgroup.com", "deutsche-bank.de", "staticline.de", "hypovereinsbank.de",
         # Germany top 50
         "google.de",
         "google.com",

@@ -13,6 +13,7 @@ google.com                     |                  134
 youtube.com                    |                  134
 paypal.com                     |                   99
 t-online.de                    |                   95
+hypovereinsbank.de             |                   80
 bing.com                       |                   66
 bmwgroup.com                   |                   49
 amazon.de                      |                   45
@@ -43,19 +44,19 @@ staticline.de                  |                    2
 spiegel.de                     |                    2
 wetteronline.de                |                    2
 google.de                      |                    1
-reddit.com                     |                    1
 gmx.net                        |                    1
+reddit.com                     |                    1
 pornhub.com                    |                    1
 web.de                         |                    1
 twitch.tv                      |                    1
 tiktok.com                     |                    1
 focus.de                       |                    1
 chip.de                        |                    1
-commerzbank.de                 |                    1
 booking.com                    |                    1
+xnxx.com                       |                    1
+commerzbank.de                 |                    1
 wetter.com                     |                    1
 mediamarkt.de                  |                    1
-xnxx.com                       |                    1
 comdirect.de                   |                    1
 ```
 
